@@ -1,3 +1,7 @@
+## LeadIQ-Marcus Github Repo Fetcher
+- Fetches a list repos of selected user
+- Previews default README file of the repo
+
 ## Quick start
 
 1. Clone this repo
